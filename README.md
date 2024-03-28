@@ -52,4 +52,3 @@ These USPs collectively highlight the value proposition of our website named 'Hi
 ![2](https://github.com/RYAN-REGO/HM0052_MernMaestros/assets/139254497/ea288578-1797-495f-a00c-174986ebdb91)
 ![3](https://github.com/RYAN-REGO/HM0052_MernMaestros/assets/139254497/34d2ff3b-3cda-4161-a874-b36a200eed81)
 ![5](https://github.com/RYAN-REGO/HM0052_MernMaestros/assets/139254497/594f8697-97b2-4d7a-b43b-24505a8e50a4)
-![4](https://github.com/RYAN-REGO/HM0052_MernMaestros/assets/139254497/9c9876db-cdb5-4326-9834-adaba0eca8dc)
